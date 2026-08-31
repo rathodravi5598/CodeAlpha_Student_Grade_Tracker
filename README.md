@@ -37,11 +37,13 @@ Make sure you have Java installed on your machine:
 java -version
 
 
-Project source code is available on GitHub. Click the link below: ⬇️
+GIT HUB CLONE AND REPROSITRY :->
 
-🔗 GITHUB LINK :https://github.com/rathodravi5598/CodeAlpha_Student_Grade_Tracker/blob/master/CodeAlpha_Student_Grade_Tracker/src/student_grade_tracker/student_grade_table.java
+https://github.com/rathodravi5598/CodeAlpha_Student_Grade_Tracker/blob/master/CodeAlpha_Student_Grade_Tracker/src/student_grade_tracker/student_grade_table.java
 
-Thanks for visiting my project!.
 
+
+
+THANKS FOR  VISITING MY PROJECT.
 
 
