@@ -39,7 +39,7 @@ java -version
 
 Project source code is available on GitHub. Click the link below: ⬇️
 
-🔗 **GitHub Repository:** [Student Grade Tracker Code](https://github.com/rathodravi5598/CodeAlpha_Student_Grade_Tracker/blob/master/CodeAlpha_Student_Grade_Tracker/src/student_grade_tracker/student_grade_table.java)
+🔗 GITHUB LINK :https://github.com/rathodravi5598/CodeAlpha_Student_Grade_Tracker/blob/master/CodeAlpha_Student_Grade_Tracker/src/student_grade_tracker/student_grade_table.java
 
 Thanks for visiting my project!.
 
