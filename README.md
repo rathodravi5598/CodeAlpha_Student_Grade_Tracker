@@ -29,12 +29,9 @@ CodeAlpha_JAVA_TASK_1
 <img width="733" height="944" alt="image" src="https://github.com/user-attachments/assets/03e7e125-5e3d-4f53-a3ed-08c3f78f65da" />
 
 
-## 🚀 How to Run the Project
+## 🚀 How to get of  the Project codeee in free 
 
-### Prerequisites
-Make sure you have Java installed on your machine:
-```bash
-java -version
+
 
 
 GIT HUB CLONE AND REPROSITRY :->
