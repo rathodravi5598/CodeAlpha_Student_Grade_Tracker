@@ -36,11 +36,12 @@ Make sure you have Java installed on your machine:
 ```bash
 java -version
 
-Project On code Of a GIT HUB IN A AVILABLE FOR THIS LOCATIONS  CLICK THIS LINKED: ⬇️
 
-link :-> https://github.com/rathodravi5598/CodeAlpha_Student_Grade_Tracker/blob/master/CodeAlpha_Student_Grade_Tracker/src/student_grade_tracker/student_grade_table.java
+Project source code is available on GitHub. Click the link below: ⬇️
 
-THNAKS FOR VISTING MY PROJECT.
+🔗 **GitHub Repository:** [Student Grade Tracker Code](https://github.com/rathodravi5598/CodeAlpha_Student_Grade_Tracker/blob/master/CodeAlpha_Student_Grade_Tracker/src/student_grade_tracker/student_grade_table.java)
+
+Thanks for visiting my project!.
 
 
 
